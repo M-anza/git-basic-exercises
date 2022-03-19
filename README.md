@@ -1,3 +1,3 @@
 git basic exercise
 more changes
-BRANCHING CHNGES 
+BRANCHING CHNGES
